@@ -1,0 +1,102 @@
+.container{
+    background: rgb(247, 244, 244);
+    width: 100%;
+    height: 600px;
+    filter: blur(8px);
+ 
+}
+
+.Text{
+    margin-left: 100px;
+}
+
+.Text2{
+  color: blue;
+  background-color: white;
+}
+
+a{
+    color: #424242;
+    text-decoration: none;
+}
+
+.Text3{
+    color: #00A5EC;
+    margin-left: 800px;
+    font-size: 20px;
+    padding: 30px;
+}
+
+.Text4{
+    color: black;
+    font-size: 20px;
+    padding: 30px;
+    margin: -90px 400px;
+}
+
+
+.head{
+    color: #00A5EC;
+    font-weight: bold;
+}
+
+.box1{
+    width: 300px;
+    height: 250px;
+    border: 2px solid white;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    padding: 20px;
+    cursor: pointer;
+    line-height: 40px;
+    color: black;
+    box-shadow: 0 0 10px silver ;
+    margin: 100px 500px;
+}
+
+.decor{
+    text-decoration: line-through;
+    color: gray;
+}
+
+.addbox1{
+    border: 1px solid #EDEDED;
+    border-radius: 5px;
+    width: 350px;
+    height: 40px;
+    color: #858585;
+    background-color:  #F7F7F7;
+    font-size: 16px;
+}
+
+.addbox{
+    border: 2px solid white; 
+    background-color: white;
+    border-radius: 10px;
+    width: 350px;
+    height: 200px;
+    cursor: pointer;
+    position: relative;
+    margin: auto;
+    top: -540px;
+}
+
+.sml{
+    background-color:  #00A5EC;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-left: 100px;
+    text-align: center;
+    font-size: 15px;
+    padding: 3px;
+    margin: 20px 200px;
+}
+
+span{
+    color: #858585;
+    font-size: 20px;
+    margin-left: 200px;
+}

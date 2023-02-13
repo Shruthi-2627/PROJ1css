@@ -1,0 +1,57 @@
+.Text{
+    margin-left: 100px;
+}
+
+.Text2{
+  color: blue;
+  background-color: white;
+}
+
+a{
+    color: #424242;
+    text-decoration: none;
+}
+
+.Text3{
+    color: #00A5EC;
+    margin-left: 800px;
+    font-size: 20px;
+    padding: 30px;
+}
+
+.Text4{
+    color: #00A5EC;;
+    font-size: 20px;
+    padding: 30px;
+    margin: -90px 400px;
+}
+.container{
+    background: rgb(247, 244, 244);
+    width: 100%;
+    height: 600px;
+}
+
+.head{
+    color: #00A5EC;
+    font-weight: bold;
+}
+
+.box1{
+    width: 300px;
+    height: 250px;
+    border: 2px solid white;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    padding: 20px;
+    cursor: pointer;
+    line-height: 40px;
+    color: black;
+    box-shadow: 0 0 10px silver ;
+    margin: 100px 500px;
+}
+
+.decor{
+    text-decoration: line-through;
+    color: gray;
+}
+

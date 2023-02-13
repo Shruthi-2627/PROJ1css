@@ -1,0 +1,66 @@
+
+.container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    background: rgb(247, 244, 244);
+    align-content: center;
+ }
+
+.Text{
+    margin-left: 100px;
+}
+
+.Text2{
+  color: blue;
+  background-color: white;
+}
+
+a{
+    color: #424242;
+    text-decoration: none;
+}
+
+i{
+    color: #00A5EC;
+    margin-left: 950px;
+    font-size: 20px;
+    padding: 30px;
+    
+}
+
+.head{
+    color: #00A5EC;
+    font-weight: bold;
+}
+
+ 
+.box{
+    margin-left: 100px;
+    width: 280px;
+    height: 250px;
+    border: 2px solid white;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    padding: 20px;
+    cursor: pointer;
+    line-height: 40px;
+    color: black;
+    cursor: pointer;
+}
+
+.box:hover{
+     box-shadow: 0 0 10px silver ;
+}
+
+.decor{
+    text-decoration: line-through;
+    color: gray;
+}
+ 
+.decor1{
+    color: black;
+    
+}
